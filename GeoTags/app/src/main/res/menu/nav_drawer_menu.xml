@@ -10,30 +10,7 @@
             android:icon="@drawable/ic_inbox"
             android:title="Add Marker" />
 
-        <item
-            android:id="@+id/nav_outbox"
-            android:icon="@drawable/ic_outbox"
-            android:title="Outbox" />
 
-        <item
-            android:id="@+id/nav_trash"
-            android:icon="@drawable/ic_trash"
-            android:title="trash" />
-
-        <item
-            android:id="@+id/nav_spam"
-            android:icon="@drawable/ic_spam"
-            android:title="Spam" />
-
-        <item
-            android:id="@+id/nav_forums"
-            android:icon="@drawable/ic_forum"
-            android:title="Forums" />
-
-        <item
-            android:id="@+id/nav_social"
-            android:icon="@drawable/ic_social"
-            android:title="Social" />
 
     </group>
 
